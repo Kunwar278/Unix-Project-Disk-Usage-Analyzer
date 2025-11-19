@@ -27,6 +27,8 @@ The script uses:
 All commands are from basic Unix modules commonly taught in introductory Unix programming labs.
 
 ---
+ScreenShot of Output:
+<img width="461" height="770" alt="Screenshot 2025-11-19 112346" src="https://github.com/user-attachments/assets/18181ef8-57af-4852-952c-08442ff57fa8" />
 
 ## 🧾 Script
 
